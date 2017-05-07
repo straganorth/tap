@@ -1,0 +1,4 @@
+Building TappingCoin
+See doc/readme-qt.rst for instructions on building TappingCoin QT.
+
+See doc/build-*.txt for instructions on building tappingcoind.
